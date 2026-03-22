@@ -1,0 +1,14 @@
+{
+  "Records": [
+    {
+      "s3": {
+        "bucket": {
+          "name": "rag-docs-anuj-demo"
+        },
+        "object": {
+          "key": "Create%2Band%2Bhost%2Ba%2BStreamable%2BHTTP%2BMCP%2BServer%2Bin%2Ba%2Bvirtual%2Bmachine.pdf"
+        }
+      }
+    }
+  ]
+}
